@@ -17,7 +17,7 @@ I am especially motivated by fields where software meets the physical world, par
 
 ### Currently Active
 
-- **C / C++** — low-level programming, memory-aware and performance-oriented development
+- **C / C++** — mid-level programming, memory-aware and performance-oriented development
 - **React + Vite** — modern frontend development and fast prototyping
 - **Node.js** — REST API development and backend services
 - **Python** — scripting, automation, and tooling
