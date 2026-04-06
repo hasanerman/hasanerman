@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm kers</h1>
+<h1 align="center">Hi, I'm Hasan Erman Dağ</h1>
 <p align="center">Software Engineering Student — OSTiM Technical University, Ankara</p>
 
 <p align="left">
