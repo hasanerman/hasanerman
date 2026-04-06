@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hasan Erman Dağ</h1>
-<p align="center">Software Engineer — OSTiM Technical University, Ankara</p>
+<p align="center">Software Engineer — OSTIM Technical University, Ankara</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=hasanerman&label=Profile%20views&color=0e75b6&style=flat" alt="hasanerman" />
@@ -9,7 +9,7 @@
 
 ### About Me
 
-I am a software engineering student at OSTiM Technical University in Ankara, Turkey.  
+I am a software engineering student at OSTIM Technical University in Ankara, Turkey.  
 My interests span embedded systems, hardware-software integration, cross-platform desktop and mobile development, and backend engineering.  
 I am especially motivated by fields where software meets the physical world, particularly defense and aerospace systems.
 
