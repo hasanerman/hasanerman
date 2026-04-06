@@ -76,4 +76,4 @@ Interest in defense software, embedded avionics, command-control systems, and sa
 
 ---
 
-<p align="center">OSTiM Technical University · Software Engineering · Ankara, Turkey</p>
+<p align="center">OSTIM Technical University · Software Engineering · Ankara, Turkey</p>
