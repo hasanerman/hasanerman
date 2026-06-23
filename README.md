@@ -17,6 +17,7 @@ I am especially motivated by fields where software meets the physical world, par
 
 ### Currently Active
 
+- **Rust** — high-performance, memory-safe systems programming and robust CLI tooling
 - **C / C++** — mid-level programming, memory-aware and performance-oriented development
 - **React + Vite** — modern frontend development and fast prototyping
 - **Node.js** — REST API development and backend services
@@ -54,6 +55,7 @@ Interest in defense software, embedded avionics, command-control systems, and sa
 ### Languages & Technologies
 
 <p align="left">
+  <a href="https://www.rust-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/c/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
@@ -70,7 +72,7 @@ Interest in defense software, embedded avionics, command-control systems, and sa
 
 ### Goals
 
-- Build stronger expertise in **embedded C/C++** and **real-time firmware design**
+- Build stronger expertise in **embedded C/C++**, **Rust**, and **real-time firmware design**
 - Develop project experience in **defense/aerospace-oriented software systems**
 - Contribute to products that require **high reliability and system-level thinking**
 
