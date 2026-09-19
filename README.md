@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Hasan Erman Dağ</h1>
 <p align="center">Software Engineer — OSTIM Technical University, Ankara</p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hasanerman&label=Profile%20views&color=0e75b6&style=flat" alt="hasanerman" />
-</p>
+
 
 ---
 
