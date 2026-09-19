@@ -38,15 +38,6 @@ Modern Android/iOS app development, including performance-critical and real-time
 **Defense & Aerospace**  
 Interest in defense software, embedded avionics, command-control systems, and safety-critical engineering.
 
----
-
-### Embedded Systems (Learning & Building)
-
-- **ESP32 (ESP-IDF / Arduino Core)** — Wi-Fi/Bluetooth-enabled microcontroller platform for IoT and real-time control projects
-- **PlatformIO** — development environment that simplifies board setup, build, flash, and serial monitor workflows
-- **FreeRTOS (on ESP32)** — task-based real-time operating system for structured and deterministic firmware
-- **UART / I2C / SPI** — core communication protocols for integrating sensors and peripheral modules
-- **Logic Analyzer** — debugging tool for inspecting digital signals and protocol traffic at hardware level
 
 ---
 
