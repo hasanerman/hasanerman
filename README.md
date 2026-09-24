@@ -8,9 +8,7 @@
 ### About Me
 
 I am a software engineering student at OSTIM Technical University in Ankara, Turkey.
-
 I develop solutions across embedded systems, hardware-software integration, cross-platform desktop and mobile applications, and backend architecture.
-
 I actively build projects at the intersection of software and the physical world, focusing particularly on defense and aerospace systems.
 
 ---
