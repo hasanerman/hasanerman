@@ -23,6 +23,10 @@ I actively build projects at the intersection of software and the physical world
 - **Node.js** — REST API development and backend services
 - **Python** — scripting, automation, and tooling
 - **PHP** — server-side web development
+- **Rust backend services** — async web APIs with Axum and Tokio, OAuth, webhooks, and git tooling with libgit2
+- **TypeScript** — typed React frontends and tooling
+- **SQLite** — embedded databases for services and command-line tools
+- **AI agent integrations** — MCP servers, Claude Code plugins, and agent hooks for Cursor and Gemini CLI
 
 ---
 
@@ -39,6 +43,9 @@ Modern Android/iOS app development, including performance-critical and real-time
 
 **Defense & Aerospace**  
 Interest in defense software, embedded avionics, command-control systems, and safety-critical engineering.
+
+**Cybersecurity**  
+Software supply-chain security: secret scanning across git history, dependency vulnerability analysis, and securing AI coding agents. Currently building [dagsec](https://dagsec.net).
 
 
 ---
@@ -57,6 +64,8 @@ Interest in defense software, embedded avionics, command-control systems, and sa
   <a href="https://vitejs.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="40" height="40"/></a>
   <a href="https://expo.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
+  <a href="https://www.sqlite.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40"/></a>
 </p>
 
 ---
