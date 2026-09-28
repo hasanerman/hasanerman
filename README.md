@@ -15,23 +15,20 @@ I actively build projects at the intersection of software and the physical world
 
 ---
 
-### Currently Active
+### Focus
 
 - **Rust** — high-performance, memory-safe systems programming and robust CLI tooling
 - **Rust backend services** — async web APIs with Axum and Tokio, OAuth, webhooks, and git tooling with libgit2
 - **C / C++** — mid-level programming, memory-aware and performance-oriented development
 - **AI agent integrations** — MCP servers, Claude Code plugins, and agent hooks for Cursor and Gemini CLI
-- **SQLite** — embedded databases for services and command-line tools
 
+### Also used in projects
 
-
-
-
-- **Python** — scripting, automation, and tooling
 - **React + Vite** — modern frontend development and fast prototyping
 - **TypeScript** — typed React frontends and tooling
 - **Node.js** — REST API development and backend services
-- **PHP** — server-side web development
+- **Python** — scripting, automation, and tooling
+- **SQLite** — embedded databases for services and command-line tools
 ---
 
 ### Focus Areas
