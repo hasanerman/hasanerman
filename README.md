@@ -1,82 +1,44 @@
 <h1 align="center">Hi, I'm Hasan Erman Dağ</h1>
-<p align="center">Software Engineer — OSTIM Technical University, Ankara</p>
 
+<p align="center">
+  Software engineering student at OSTIM Technical University, Ankara.<br>
+  I build systems software in <b>Rust</b> and <b>C/C++</b>, from security tooling to embedded systems.
+</p>
 
-
----
-
-### About Me
-
-I am a software engineering student at OSTIM Technical University in Ankara, Turkey.
-
-I develop solutions across embedded systems, hardware-software integration, cross-platform desktop and mobile applications, and backend architecture.
-
-I actively build projects at the intersection of software and the physical world, focusing particularly on defense and aerospace systems.
-
----
-
-### Focus
-
-- **Rust** — high-performance, memory-safe systems programming and robust CLI tooling
-- **Rust backend services** — async web APIs with Axum and Tokio, OAuth, webhooks, and git tooling with libgit2
-- **C / C++** — mid-level programming, memory-aware and performance-oriented development
-- **AI agent integrations** — MCP servers, Claude Code plugins, and agent hooks for Cursor and Gemini CLI
-
-### Also used in projects
-
-- **React + Vite** — modern frontend development and fast prototyping
-- **TypeScript** — typed React frontends and tooling
-- **Node.js** — REST API development and backend services
-- **Python** — scripting, automation, and tooling
-- **SQLite** — embedded databases for services and command-line tools
----
-
-### Focus Areas
-
-**Embedded Systems**  
-Low-level programming, microcontroller development, firmware design, real-time systems, and hardware-software interfacing.
-
-**Desktop Applications**  
-Native and cross-platform desktop software with focus on performance, usability, and system-level integration.
-
-**Mobile Development**  
-Modern Android/iOS app development, including performance-critical and real-time mobile software.
-
-**Defense & Aerospace**  
-Interest in defense software, embedded avionics, command-control systems, and safety-critical engineering.
-
-**Cybersecurity**  
-Software supply-chain security: secret scanning across git history, dependency vulnerability analysis, and securing AI coding agents. Currently building [dagsec](https://dagsec.net).
-
-
----
-
-### Languages & Technologies
-
-<p align="left">
-  <a href="https://www.rust-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/c/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-  <a href="https://reactjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a>
-  <a href="https://vitejs.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="40" height="40"/></a>
-  <a href="https://expo.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
-  <a href="https://www.sqlite.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40"/></a>
+<p align="center">
+  <a href="https://dagsec.net"><img src="https://img.shields.io/badge/dagsec.net-0e1215?style=for-the-badge" alt="dagsec.net"></a>
+  <a href="https://www.linkedin.com/in/hasan-erman-da%C4%9F-33641b401/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
 
-### Goals
+### What I'm building
 
-- Build stronger expertise in **embedded C/C++**, **Rust**, and **real-time firmware design**
-- Develop project experience in **defense/aerospace-oriented software systems**
-- Contribute to products that require **high reliability and system-level thinking**
+<a href="https://dagsec.net">
+  <img src="https://dagsec.net/art/github-card.jpg" alt="dagsec: supply-chain security for the age of AI coding agents" width="100%">
+</a>
+
+**[dagsec](https://dagsec.net)** reads every commit for leaked credentials, scores every dependency a project pulls in, and stops AI coding agents from installing packages that don't exist or have known vulnerabilities.
+
+- **[GitHub Action](https://github.com/hasanerman/dagsec-action)**: a report on every pull request, before it merges
+- **[Claude Code plugin](https://github.com/hasanerman/dagsec-claude)**: blocks risky installs before they run
+- **Desktop app**: local scans and one-click protection for Cursor, Windsurf and Copilot
 
 ---
 
-<p align="center">OSTIM Technical University · Software Engineering · Ankara, Turkey</p>
+### What I work with
+
+- **Rust**: memory-safe systems and CLI tools; async backend services with Axum and Tokio, OAuth, webhooks and git tooling with libgit2
+- **C / C++**: performance-oriented, memory-aware development
+- **AI agent integrations**: MCP servers, Claude Code plugins, agent hooks for Cursor and Gemini CLI
+- **Also**: TypeScript, React + Vite, Node.js, Python, SQLite, Tauri
+
+<p>
+  <img src="https://skillicons.dev/icons?i=rust,c,cpp,ts,react,vite,nodejs,python,sqlite,tauri,linux&perline=11" alt="Rust, C, C++, TypeScript, React, Vite, Node.js, Python, SQLite, Tauri, Linux">
+</p>
+
+---
+
+### Where I'm heading
+
+Embedded and real-time systems, defense and aerospace software, and products that need **high reliability and system-level thinking**.
