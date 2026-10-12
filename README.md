@@ -23,6 +23,7 @@
 - **[GitHub Action](https://github.com/hasanerman/dagsec-action)**: a report on every pull request, before it merges
 - **[Claude Code plugin](https://github.com/hasanerman/dagsec-claude)**: blocks risky installs before they run
 - **Desktop app**: local scans and one-click protection for Cursor, Windsurf and Copilot
+- **[On Agensi](https://www.agensi.io/skills/dagsec)**: listed on the AI agent skills marketplace
 
 ---
 
