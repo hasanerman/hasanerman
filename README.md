@@ -6,8 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://dagsec.net"><img src="https://img.shields.io/badge/dagsec.net-0e1215?style=for-the-badge" alt="dagsec.net"></a>
-  <a href="https://www.linkedin.com/in/hasan-erman-da%C4%9F-33641b401/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://dagsec.net"><img src="https://img.shields.io/badge/dagsec.net-0e1215?style=for-the-badge" alt="dagsec.net" height="28"></a>
+  <a href="https://hostprise.com"><img src="hostprise.png" alt="Hostprise" height="28"></a>
+  <a href="https://www.linkedin.com/in/hasan-erman-da%C4%9F-33641b401/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"></a>
 </p>
 
 ---
